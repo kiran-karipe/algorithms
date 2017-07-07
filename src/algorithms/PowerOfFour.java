@@ -1,4 +1,4 @@
-
+package algorithms;
 public class PowerOfFour {
 	
 	public static boolean fourPower(int n) {

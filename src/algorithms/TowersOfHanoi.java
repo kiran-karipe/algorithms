@@ -1,4 +1,4 @@
-
+package algorithms;
 public class TowersOfHanoi {
 	
 	int[] array = {2, 4, 7, 3, 8, 1, 9, 6, 0, 5};

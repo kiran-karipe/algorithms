@@ -1,4 +1,4 @@
-
+package algorithms;
 public interface Queue {
 
 	void enQueue();
